@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\pertemuan-3\ujicobaexception\ujicobaexception\bin\Debug\net6.0\ujicobaexception.exe
+C:\Users\user\source\repos\pertemuan-3\ujicobaexception\ujicobaexception\bin\Debug\net6.0\ujicobaexception.deps.json
+C:\Users\user\source\repos\pertemuan-3\ujicobaexception\ujicobaexception\bin\Debug\net6.0\ujicobaexception.runtimeconfig.json
+C:\Users\user\source\repos\pertemuan-3\ujicobaexception\ujicobaexception\bin\Debug\net6.0\ujicobaexception.dll
+C:\Users\user\source\repos\pertemuan-3\ujicobaexception\ujicobaexception\bin\Debug\net6.0\ujicobaexception.pdb
+C:\Users\user\source\repos\pertemuan-3\ujicobaexception\ujicobaexception\obj\Debug\net6.0\ujicobaexception.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\pertemuan-3\ujicobaexception\ujicobaexception\obj\Debug\net6.0\ujicobaexception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\pertemuan-3\ujicobaexception\ujicobaexception\obj\Debug\net6.0\ujicobaexception.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\pertemuan-3\ujicobaexception\ujicobaexception\obj\Debug\net6.0\ujicobaexception.AssemblyInfo.cs
+C:\Users\user\source\repos\pertemuan-3\ujicobaexception\ujicobaexception\obj\Debug\net6.0\ujicobaexception.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\pertemuan-3\ujicobaexception\ujicobaexception\obj\Debug\net6.0\ujicobaexception.dll
+C:\Users\user\source\repos\pertemuan-3\ujicobaexception\ujicobaexception\obj\Debug\net6.0\refint\ujicobaexception.dll
+C:\Users\user\source\repos\pertemuan-3\ujicobaexception\ujicobaexception\obj\Debug\net6.0\ujicobaexception.pdb
+C:\Users\user\source\repos\pertemuan-3\ujicobaexception\ujicobaexception\obj\Debug\net6.0\ujicobaexception.genruntimeconfig.cache
+C:\Users\user\source\repos\pertemuan-3\ujicobaexception\ujicobaexception\obj\Debug\net6.0\ref\ujicobaexception.dll
